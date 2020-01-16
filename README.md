@@ -12,3 +12,6 @@ https://medium.com/@swapp19902/image-classifier-using-fastai-and-google-colab-87
 
 **(Alvaro - 28/11/2019)**
 
+**(Javi - 16/01/2020)**
+
+https://www.tensorflow.org/tutorials/images/classification
