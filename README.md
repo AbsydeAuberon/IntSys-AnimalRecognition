@@ -1,3 +1,9 @@
+***INSTRUCTIONS***
+Upload our 'final_model.h5' to the Colab and and image you want to use. In the last part of the ipynb, change the _'img_path'_ to the path of the image uploaded in order to predict with that image.
+Compile the last block of instructions and prediction will be done.
+
+
+
 ***INTERESTING LINKS:***
 
 **(Alvaro - 19/11/2019)**
